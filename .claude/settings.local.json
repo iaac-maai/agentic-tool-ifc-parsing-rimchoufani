@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /c/Users/Acer/github-classroom/iaac-maai/agentic-tool-ifc-parsing-rimchoufani && python -m pytest tests/test_checker_contract.py -v 2>&1)"
+    ]
+  }
+}
